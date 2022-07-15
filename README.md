@@ -11,7 +11,7 @@ Front-End Developer
 * 🚀  I'm currently working on [Mapty](http://maptyfy.netlify.app)
 * 🧠  I'm learning JavaScript
 
-<img align="center" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding">
+<img margin-top="10px" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding">
 
 <a href="https://www.twitter.com/Darklegend36" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Darklegend36?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"
