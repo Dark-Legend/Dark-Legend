@@ -11,7 +11,7 @@ Front-End Developer
 * 🚀  I'm currently working on [Mapty](http://maptyfy.netlify.app)
 * 🧠  I'm learning JavaScript
 
-<img src="https://pin.it/2NZdrkJ" alt="coding">
+<img align="right" width="400" src="https://dribbble.com/shots/4948736-UI-Developer/attachments/10687954?mode=media" alt="coding">
 
 <a href="https://www.twitter.com/Darklegend36" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Darklegend36?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"
